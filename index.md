@@ -30,5 +30,27 @@ _Sangsoo Lim\*, Yijingxiu Lu\*, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, Youngk
 Computational and Structural Biotechnology Journal
 
 
+<i class="fas fa-leaf"></i> [**Triangular Contrastive Learning on Molecular Graphs**](https://chemgyu.github.io/assets/publications/2022_tricl/paper.pdf)
+
+_MinGyu Choi, Wonseok Shin, Yijingxiu Lu, Sun Kim_
+
+MoML23: Molecular Machine Learning Conference
+
+
+<i class="fas fa-leaf"></i> [**Enhancing Drug-Drug Interaction Prediction with Context-Aware Architecture**](https://openreview.net/forum?id=e2Bkf1Bzh4)
+
+_Yijingxiu Lu, Yinhua Piao, Sun Kim_
+
+ICLR 2024 Tiny
+
+
+<i class="fas fa-leaf"></i> [**Improving Out-of-Distribution Generalization in Graphs via Hierarchical Semantic Environments**](https://arxiv.org/abs/2403.01773)
+
+_Yinhua Piao, Sangseon Lee, Yijingxiu Lu, Sun Kim_
+
+CVPR 2024
+
+
+
 
 <head>     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script>     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script>  </head>  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
