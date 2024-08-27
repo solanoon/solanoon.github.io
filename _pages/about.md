@@ -18,9 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hello, I am Yijingxiu Lu, a Ph.D. candidate at the Bio & Health Informatics (BHI) Lab at Seoul National University, under the guidance of Prof. Sun Kim.
-
 My research interests focus on AI4Science, with a particular emphasis on computer-aided drug discovery and relational learning in multi-omics data.
-
 Please feel free to reach out for research communications, collaboration opportunities, or professional discussions.
 
 <!-- 
@@ -35,7 +33,43 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Tiny 2024</div><img src='images/ICLR2024_DDI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/biokdd2024_DDI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<code class="language-plaintext highlighter-rouge">BIOKDD 2024</code> [Context-Aware Hierarchical Fusion for Drug Relational Learning](https://www.biorxiv.org/content/10.1101/2024.08.06.606750v1)
+
+**Yijingxiu Lu**, Yinhua Piao, Sangseon Lee, Sun Kim
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/biokdd2024_DTI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<code class="language-plaintext highlighter-rouge">BIOKDD 2024</code> [Mixture-of-Experts Approach for Enhanced Drug-Target Interaction Prediction and Confidence Assessment](https://www.biorxiv.org/content/10.1101/2024.08.06.606753v1)
+
+**Yijingxiu Lu**, Sangseon Lee, Soosung Kang, Sun Kim
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ICLR2024_DDI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing Drug-Drug Interaction Prediction with Context-Aware Architecture](https://openreview.net/pdf?id=e2Bkf1Bzh4)
+
+**Yijingxiu Lu**, Yinhua Piao, Sun Kim
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ICLR2024_DDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Drug-Drug Interaction Prediction with Context-Aware Architecture](https://openreview.net/pdf?id=e2Bkf1Bzh4)
@@ -54,18 +88,20 @@ My research interest includes neural machine translation and computer vision. I 
   </li>
 </ul>
 
-
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors and Awards
+- *[2024.05]* Notable Paper on ICLR Tiny Paper Track.
+- *[2024.02]* Samsung HumanTech Paper Award (co-author). 
+- *[2019.03-2021.06]* SNU Global Scholarships II. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *[2018.09 - 2025.02 (now)]*, Combined Master and Doctor Degree, Computer Science, Seoul National University. 
+- *[2017.03 - 2018.08]*, Korean Language Education, Seoul National University. 
+- *[2013.08 - 2017.06]*, Bachlor Degree, Communication Engineering, Seoul National University. 
 
-# 💬 Invited Talks
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2018.03 - 2018.08*, [BHI Lab](https://bhi-kimlab.github.io), Korea.
