@@ -31,12 +31,15 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.02*: &nbsp;🎉🎉 Our work is accepted by ICLR tiny paper 2024. 
 - *2024.02*: &nbsp;🎉🎉 Co-work won the 30th Samsung HumanTech Paper Award.
 
-# 📝 Publications 
+# 📝 Main Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/biokdd2024_DDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<code class="language-plaintext highlighter-rouge">BIOKDD 2024</code> [Context-Aware Hierarchical Fusion for Drug Relational Learning](https://www.biorxiv.org/content/10.1101/2024.08.06.606750v1)
+<code class="language-plaintext highlighter-rouge">BIOKDD 2024</code> Context-Aware Hierarchical Fusion for Drug Relational Learning
+
+[[paper]](https://www.biorxiv.org/content/10.1101/2024.08.06.606750v1)
+[[slides]](_pages/data/biokdd24_ddi_slide.pdf)
 
 **Yijingxiu Lu**, Yinhua Piao, Sangseon Lee, Sun Kim
 
@@ -48,7 +51,10 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/biokdd2024_DTI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<code class="language-plaintext highlighter-rouge">BIOKDD 2024</code> [Mixture-of-Experts Approach for Enhanced Drug-Target Interaction Prediction and Confidence Assessment](https://www.biorxiv.org/content/10.1101/2024.08.06.606753v1)
+<code class="language-plaintext highlighter-rouge">BIOKDD 2024</code> Mixture-of-Experts Approach for Enhanced Drug-Target Interaction Prediction and Confidence Assessment
+
+[[paper]](https://www.biorxiv.org/content/10.1101/2024.08.06.606753v1)
+[[slides]](_pages/data/biokdd24_dti_slide.pdf)
 
 **Yijingxiu Lu**, Sangseon Lee, Soosung Kang, Sun Kim
 
@@ -60,7 +66,10 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ICLR2024_DDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing Drug-Drug Interaction Prediction with Context-Aware Architecture](https://openreview.net/pdf?id=e2Bkf1Bzh4)
+<code class="language-plaintext highlighter-rouge">ICLR Tiny 2024</code> Enhancing Drug-Drug Interaction Prediction with Context-Aware Architecture
+
+[[paper]](https://openreview.net/pdf?id=e2Bkf1Bzh4)
+[[code]](https://github.com/solanoon/CabidaDDI)
 
 **Yijingxiu Lu**, Yinhua Piao, Sun Kim
 
@@ -69,22 +78,48 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ICLR2024_DDI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/csbj_2021.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing Drug-Drug Interaction Prediction with Context-Aware Architecture](https://openreview.net/pdf?id=e2Bkf1Bzh4)
+<code class="language-plaintext highlighter-rouge">CSBJ</code> A review on compound-protein interaction prediction methods: Data, format, representation and model
 
-**Yijingxiu Lu**, Yinhua Piao, Sun Kim
+[[paper]](https://www.sciencedirect.com/science/article/pii/S2001037021000763)
+
+Sangsoo Lim\*, **Yijingxiu Lu\***, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, Youngkuk Kim, Sungjoon Park, Sun Kim
+
+
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
+# 📝 Publications 
+
 <ul>
-    <li> <code class="language-plaintext highlighter-rouge">CVPR 2024</code>
+  <li> <code class="language-plaintext highlighter-rouge">BIOKDD 2024</code>
+    <a href="https://www.biorxiv.org/content/10.1101/2024.08.06.606750v1">Context-Aware Hierarchical Fusion for Drug Relational Learning</a>
+    <br> <strong>Yijingxiu Lu</strong>, Yinhua Piao, Sangseon Lee, Sun Kim
+  </li>
+  <li> <code class="language-plaintext highlighter-rouge">BIOKDD 2024</code>
+    <a href="https://www.biorxiv.org/content/10.1101/2024.08.06.606753v1">Mixture-of-Experts Approach for Enhanced Drug-Target Interaction Prediction and Confidence Assessment</a>
+    <br> <strong>Yijingxiu Lu</strong>, Sangseon Lee, Soosung Kang, Sun Kim
+  </li>
+  <li> <code class="language-plaintext highlighter-rouge">ICLR Tiny 2024</code>
+    <a href="https://openreview.net/forum?id=e2Bkf1Bzh4">Enhancing Drug-Drug Interaction Prediction with Context-Aware Architecture</a>
+    <br> <strong>Yijingxiu Lu</strong>, Yinhua Piao, Sun Kim
+  </li>
+  <li> <code class="language-plaintext highlighter-rouge">CVPR 2024</code>
     <a href="https://arxiv.org/abs/2403.01773">Improving Out-of-Distribution Generalization in Graphs via Hierarchical Semantic Environments</a>
-    <br> Yinhua Piao, Sangseon Lee, <strong style="color: #dc322f">Yijingxiu Lu</strong>, Sun Kim | <a href="https://github.com/qkrdmsghk/GOODHSE"><strong>Project</strong></a>
+    <br> Yinhua Piao, Sangseon Lee, <strong>Yijingxiu Lu</strong>, Sun Kim | <a href="https://github.com/qkrdmsghk/GOODHSE"><strong>Project</strong></a>
+  </li>
+  <li> <code class="language-plaintext highlighter-rouge">MoML 2023</code>
+    <a href="https://chemgyu.github.io/assets/publications/2022_tricl/paper.pdf">Triangular Contrastive Learning on Molecular Graphs</a>
+    <br> MinGyu Choi, Wonseok Shin, <strong>Yijingxiu Lu</strong>, Sun Kim 
+  </li>
+  <li> <code class="language-plaintext highlighter-rouge">CSBJ</code>
+    <a href="https://www.sciencedirect.com/science/article/pii/S2001037021000763">A review on compound-protein interaction prediction methods: Data, format, representation and model</a>
+    <br> Sangsoo Lim\*, <strong>Yijingxiu Lu\*</strong>, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, Youngkuk Kim, Sungjoon Park, Sun Kim
   </li>
 </ul>
 
@@ -104,4 +139,4 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2018.03 - 2018.08*, [BHI Lab](https://bhi-kimlab.github.io), Korea.
+- *[2018.03 - 2018.08]*, [BHI Lab](https://bhi-kimlab.github.io), Korea.
