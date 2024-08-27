@@ -47,7 +47,13 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- <div class="badge">CVPR 2024</div> [Improving Out-of-Distribution Generalization in Graphs via Hierarchical Semantic Environments](https://arxiv.org/abs/2403.01773), Yinhua Piao, Sangseon Lee, Yijingxiu Lu, Sun Kim
+<ul>
+    <li> <code class="language-plaintext highlighter-rouge">CVPR 2024</code>
+    <a href="https://arxiv.org/abs/2403.01773">Improving Out-of-Distribution Generalization in Graphs via Hierarchical Semantic Environments</a>
+    <br> Yinhua Piao, Sangseon Lee, <strong style="color: #dc322f">Yijingxiu Lu</strong>, Sun Kim | <a href="https://github.com/qkrdmsghk/GOODHSE"><strong>Project</strong></a>
+  </li>
+</ul>
+
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
