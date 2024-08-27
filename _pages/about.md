@@ -66,7 +66,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ICLR2024_DDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<code class="language-plaintext highlighter-rouge">ICLR Tiny 2024</code> Enhancing Drug-Drug Interaction Prediction with Context-Aware Architecture
+<code class="language-plaintext highlighter-rouge">ICLR Tiny 2024</code>Enhancing Drug-Drug Interaction Prediction with Context-Aware Architecture <strong style="color:darkblue">(Notable: Top 16.25\%)</strong>
 
 [[paper]](https://openreview.net/pdf?id=e2Bkf1Bzh4)
 [[code]](https://github.com/solanoon/CabidaDDI)
@@ -106,7 +106,7 @@ Sangsoo Lim\*, **Yijingxiu Lu\***, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, You
     <br> <strong>Yijingxiu Lu</strong>, Sangseon Lee, Soosung Kang, Sun Kim
   </li>
   <li> <code class="language-plaintext highlighter-rouge">ICLR Tiny 2024</code>
-    <a href="https://openreview.net/forum?id=e2Bkf1Bzh4">Enhancing Drug-Drug Interaction Prediction with Context-Aware Architecture</a>
+    <a href="https://openreview.net/forum?id=e2Bkf1Bzh4">Enhancing Drug-Drug Interaction Prediction with Context-Aware Architecture</a> <strong style="color:darkblue">(Notable: Top 16.25%)</strong>
     <br> <strong>Yijingxiu Lu</strong>, Yinhua Piao, Sun Kim
   </li>
   <li> <code class="language-plaintext highlighter-rouge">CVPR 2024</code>
@@ -119,7 +119,7 @@ Sangsoo Lim\*, **Yijingxiu Lu\***, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, You
   </li>
   <li> <code class="language-plaintext highlighter-rouge">CSBJ</code>
     <a href="https://www.sciencedirect.com/science/article/pii/S2001037021000763">A review on compound-protein interaction prediction methods: Data, format, representation and model</a>
-    <br> Sangsoo Lim\*, <strong>Yijingxiu Lu\*</strong>, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, Youngkuk Kim, Sungjoon Park, Sun Kim
+    <br> Sangsoo Lim*, <strong>Yijingxiu Lu*</strong>, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, Youngkuk Kim, Sungjoon Park, Sun Kim
   </li>
 </ul>
 
@@ -131,7 +131,7 @@ Sangsoo Lim\*, **Yijingxiu Lu\***, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, You
 # 📖 Educations
 - *[2018.09 - 2025.02 (now)]*, Combined Master and Doctor Degree, Computer Science, Seoul National University. 
 - *[2017.03 - 2018.08]*, Korean Language Education, Seoul National University. 
-- *[2013.08 - 2017.06]*, Bachlor Degree, Communication Engineering, Seoul National University. 
+- *[2013.08 - 2017.06]*, Bachelor Degree, Communication Engineering, University of Science Technology Beijing. 
 
 
 <!-- # 💬 Invited Talks
