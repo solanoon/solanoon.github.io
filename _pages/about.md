@@ -26,6 +26,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 Our researches received the Excellent Poster Awards in BIOINFO 2024. 
 - *2024.07*: &nbsp;🎉🎉 Our works are accepted by BIOKDD 2024. 
 - *2024.02*: &nbsp;🎉🎉 Co-work is accepted by CVPR 2024. 
 - *2024.02*: &nbsp;🎉🎉 Our work is accepted by ICLR tiny paper 2024. 
@@ -124,6 +125,7 @@ Sangsoo Lim\*, **Yijingxiu Lu\***, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, You
 </ul>
 
 # 🎖 Honors and Awards
+- *[2024.10]* Excellent Poster Award on BIOINFO 2024.
 - *[2024.05]* Notable Paper on ICLR Tiny Paper Track.
 - *[2024.02]* Samsung HumanTech Paper Award (co-author). 
 - *[2019.03-2021.06]* SNU Global Scholarships II. 
@@ -133,6 +135,8 @@ Sangsoo Lim\*, **Yijingxiu Lu\***, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, You
 - *[2017.03 - 2018.08]*, Korean Language Education, Seoul National University. 
 - *[2013.08 - 2017.06]*, Bachelor Degree, Communication Engineering, University of Science Technology Beijing. 
 
+# 🔍 Study
+-  Fu Cong, et al. "Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug Design Using Language Models" arXiv preprint arXiv:2408.09730 (2024)  [[slides]](_pages/data/250206-Frag2Seq-yijingxiulu.pdf)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
