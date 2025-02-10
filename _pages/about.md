@@ -67,7 +67,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ICLR2024_DDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<code class="language-plaintext highlighter-rouge">ICLR Tiny 2024</code>Enhancing Drug-Drug Interaction Prediction with Context-Aware Architecture <strong style="color:darkblue">(Notable: Top 16.25\%)</strong>
+<code class="language-plaintext highlighter-rouge">ICLR Tiny 2024</code>Enhancing Drug-Drug Interaction Prediction with Context-Aware Architecture <strong style="color:darkblue">(Notable: Top 16.25%)</strong>
 
 [[paper]](https://openreview.net/pdf?id=e2Bkf1Bzh4)
 [[code]](https://github.com/solanoon/CabidaDDI)
@@ -143,4 +143,5 @@ Sangsoo Lim\*, **Yijingxiu Lu\***, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, You
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *[2018.03 - 2018.08]*, [BHI Lab](https://bhi-kimlab.github.io), Korea.
+<!-- - *[2018.03 - 2018.08]*, [BHI Lab](https://bhi-kimlab.github.io), Korea. -->
+- *[2018.03 - 2018.08]*, BHI Lab, Korea.
