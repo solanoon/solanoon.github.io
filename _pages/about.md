@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am [Yijingxiu Lu](https://github.com/solanoon/solanoon.github.io/blob/main/_pages/data/yijingxiu_lu_cv.pdf), a Ph.D. candidate at the Bio & Health Informatics (BHI) Lab at Seoul National University, under the guidance of Prof. Sun Kim.
+Hello, I am [Yijingxiu Lu](_pages/data/yijingxiu_lu_cv.pdf), a Ph.D. candidate at the Bio & Health Informatics (BHI) Lab at Seoul National University, under the guidance of Prof. Sun Kim.
 My research interests focus on AI4Science, with a particular emphasis on computer-aided drug discovery and relational learning in multi-omics data.
 Please feel free to reach out for research communications, collaboration opportunities, or professional discussions.
 
