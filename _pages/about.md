@@ -131,7 +131,7 @@ Sangsoo Lim\*, **Yijingxiu Lu\***, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, You
 - *[2019.03-2021.06]* SNU Global Scholarships II. 
 
 # 📖 Educations
-- *[2018.09 - 2025.02 (now)]*, Combined Master and Doctor Degree, Computer Science, Seoul National University. 
+- *[2018.09 - 2026.02 (now)]*, Combined Master and Doctor Degree, Computer Science, Seoul National University. 
 - *[2017.03 - 2018.08]*, Korean Language Education, Seoul National University. 
 - *[2013.08 - 2017.06]*, Bachelor Degree, Communication Engineering, University of Science Technology Beijing. 
 
