@@ -137,6 +137,7 @@ Sangsoo Lim\*, **Yijingxiu Lu\***, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, You
 
 # 🔍 Study
 -  Fu Cong, et al. "Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug Design Using Language Models" arXiv preprint arXiv:2408.09730 (2024)  [[slides]](_pages/data/250206-Frag2Seq-yijingxiulu.pdf)
+-  Yu, Jiating, et al. "Reverse network diffusion to remove indirect noise for better inference of gene regulatory networks." Bioinformatics 40.7 (2024): btae435. [[slides]](_pages/data/240725-RENDER-yijingxiulu.pdf)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
