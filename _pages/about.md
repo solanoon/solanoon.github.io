@@ -34,10 +34,25 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Main Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/jcim2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<code class="language-plaintext highlighter-rouge">JCIM 2025</code> Improving Reaction Yield Prediction with Chemical Atom-Level Reaction Learning
+
+[[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5c01404)
+
+**Yijingxiu Lu**, Yinhua Piao, Ming Shen, Sun Kim
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/biokdd2024_DDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<code class="language-plaintext highlighter-rouge">BIOKDD 2024</code> Context-Aware Hierarchical Fusion for Drug Relational Learning
+<code class="language-plaintext highlighter-rouge">IEEE TCBB 2025</code> Context-Aware Hierarchical Fusion for Drug Relational Learning
 
 [[paper]](https://www.biorxiv.org/content/10.1101/2024.08.06.606750v1)
 [[slides]](_pages/data/biokdd24_ddi_slide.pdf)
@@ -98,7 +113,19 @@ Sangsoo Lim\*, **Yijingxiu Lu\***, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, You
 # 📝 Publications 
 
 <ul>
-  <li> <code class="language-plaintext highlighter-rouge">BIOKDD 2024</code>
+  <li> <code class="language-plaintext highlighter-rouge">NeurIPS 2025 Workshop</code>
+    <a href="https://openreview.net/forum?id=FSlTEObdLl">Attentive Multi-Channel Molecular Representation in Drug-Target Affinity Prediction</a>
+    <br> Ming Shen, <strong>Yijingxiu Lu</strong>, Boyu Feng, Irwin King
+  </li>
+  <li> <code class="language-plaintext highlighter-rouge">JCIM 2025</code>
+    <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5c01404">Improving Reaction Yield Prediction with Chemical Atom-Level Reaction Learning</a>
+    <br> <strong>Yijingxiu Lu</strong>, Yinhua Piao, Ming Shen, Sun Kim
+  </li>
+  <li> <code class="language-plaintext highlighter-rouge">ICML 2025</code>
+    <a href="https://openreview.net/forum?id=FSlTEObdLl">CombiMOTS: Combinatorial Multi-Objective Tree Search For Dual-Target Molecule Generation</a>
+    <br> Thibaud Southiratn, Bonil Koo, <strong>Yijingxiu Lu</strong>, Sun Kim
+  </li>
+  <li> <code class="language-plaintext highlighter-rouge">BIOKDD 2024</code> <code class="language-plaintext highlighter-rouge">IEEE TCBB 2025</code>
     <a href="https://www.biorxiv.org/content/10.1101/2024.08.06.606750v1">Context-Aware Hierarchical Fusion for Drug Relational Learning</a>
     <br> <strong>Yijingxiu Lu</strong>, Yinhua Piao, Sangseon Lee, Sun Kim
   </li>
