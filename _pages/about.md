@@ -17,15 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am [Yijingxiu Lu](_pages/data/yijingxiu_lu_cv.pdf), a Ph.D. candidate at the Bio & Health Informatics (BHI) Lab at Seoul National University, under the guidance of Prof. Sun Kim.
-My research interests focus on AI4Science, with a particular emphasis on computer-aided drug discovery and relational learning in multi-omics data.
-Please feel free to reach out for research communications, collaboration opportunities, or professional discussions.
+Hello, I am [Yijingxiu (Louise) Lu](/_pages/data/yijingxiu_lu_cv.pdf), a Senior Algorithm Researcher at [Immunocan](https://www.linkedin.com/company/immunocan/), Shanghai. I completed my combined master's and Ph.D. program in Computer Science at Seoul National University in December 2025, where I worked with Prof. Sun Kim in the Bio & Health Informatics (BHI) Lab.
+
+My research focuses on AI for drug discovery, with an emphasis on protein language models, antibody and nanobody engineering, and antibody–antigen interaction modeling. Previously, I worked at Clickmab Biotechnology and the Global Health Drug Discovery Institute (GHDDI).
+
+Please feel free to [reach out](mailto:solanoon0113@gmail.com) for research discussions and collaboration opportunities.
 
 <!-- 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2026.09*: &nbsp;Joined Immunocan in Shanghai as a Senior Algorithm Researcher.
+- *2026.01*: &nbsp;Joined [Clickmab Biotechnology](https://www.clickmab.com/en) in Beijing as a Senior AI Research Scientist.
+- *2025.12*: &nbsp;Completed my combined master's and Ph.D. program in Computer Science at Seoul National University.
+- *2025.08*: &nbsp;Started an internship at the [Global Health Drug Discovery Institute (GHDDI)](https://www.ghddi.org/en) in Beijing, working on AI-powered drug discovery.
 - *2024.10*: &nbsp;🎉🎉 Our researches received the Excellent Poster Awards in BIOINFO 2024. 
 - *2024.07*: &nbsp;🎉🎉 Our works are accepted by BIOKDD 2024. 
 - *2024.02*: &nbsp;🎉🎉 Co-work is accepted by CVPR 2024. 
@@ -54,7 +60,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <code class="language-plaintext highlighter-rouge">IEEE TCBB 2025</code> Context-Aware Hierarchical Fusion for Drug Relational Learning
 
-[[paper]](https://www.biorxiv.org/content/10.1101/2024.08.06.606750v1)
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10925899)
 [[slides]](_pages/data/biokdd24_ddi_slide.pdf)
 
 **Yijingxiu Lu**, Yinhua Piao, Sangseon Lee, Sun Kim
@@ -67,9 +73,10 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/biokdd2024_DTI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<code class="language-plaintext highlighter-rouge">BIOKDD 2024</code> Mixture-of-Experts Approach for Enhanced Drug-Target Interaction Prediction and Confidence Assessment
+<code class="language-plaintext highlighter-rouge">IEEE/ACM TCBB 2026</code> EnsDTI: Predicting Drug-Target Interaction with Mixture-of-Experts and Confidence Assessment
 
-[[paper]](https://www.biorxiv.org/content/10.1101/2024.08.06.606753v1)
+[[paper]](https://ieeexplore.ieee.org/abstract/document/11353228)
+[[BIOKDD 2024 version]](https://www.biorxiv.org/content/10.1101/2024.08.06.606753v1)
 [[slides]](_pages/data/biokdd24_dti_slide.pdf)
 
 **Yijingxiu Lu**, Sangseon Lee, Soosung Kang, Sun Kim
@@ -97,7 +104,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/csbj_2021.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<code class="language-plaintext highlighter-rouge">CSBJ</code> A review on compound-protein interaction prediction methods: Data, format, representation and model
+<code class="language-plaintext highlighter-rouge">CSBJ 2021</code> A review on compound-protein interaction prediction methods: Data, format, representation and model
 
 [[paper]](https://www.sciencedirect.com/science/article/pii/S2001037021000763)
 
@@ -113,8 +120,21 @@ Sangsoo Lim\*, **Yijingxiu Lu\***, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, You
 # 📝 Publications 
 
 <ul>
+  <li> <code class="language-plaintext highlighter-rouge">NeurIPS 2026 AI4DD Workshop</code>
+    <a href="https://openreview.net/forum?id=VNGiF6XV46">EPIC: Epitope–Paratope Interleaved Contact Learning for Antibody–Antigen Interface Prediction</a>
+    <br> <strong>Yijingxiu Lu</strong>, Y. Li, W. Yang, X. Chen, T. Wang
+    <br> Accepted; forthcoming.
+  </li>
+  <li> <code class="language-plaintext highlighter-rouge">Artificial Intelligence in the Life Sciences 2026</code>
+    <a href="https://doi.org/10.1016/j.ailsci.2026.100180">ISAAC: Prior-aligned structural sensitivity auditing for drug–target interaction models</a>
+    <br> B. Tarantino, Sun Kim, <strong>Yijingxiu Lu</strong>, P. Giudici
+  </li>
+  <li> <code class="language-plaintext highlighter-rouge">IEEE/ACM TCBB 2026</code>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11353228">EnsDTI: Predicting Drug-Target Interaction with Mixture-of-Experts and Confidence Assessment</a>
+    <br> <strong>Yijingxiu Lu</strong>, Sangseon Lee, Soosung Kang, Sun Kim
+  </li>
   <li> <code class="language-plaintext highlighter-rouge">NeurIPS 2025 Workshop</code>
-    <a href="https://openreview.net/forum?id=FSlTEObdLl">Attentive Multi-Channel Molecular Representation in Drug-Target Affinity Prediction</a>
+    <a href="https://openreview.net/forum?id=YWvpTdgvyv">Attentive Multi-Channel Molecular Representation in Drug-Target Affinity Prediction</a>
     <br> Ming Shen, <strong>Yijingxiu Lu</strong>, Boyu Feng, Irwin King
   </li>
   <li> <code class="language-plaintext highlighter-rouge">JCIM 2025</code>
@@ -126,7 +146,7 @@ Sangsoo Lim\*, **Yijingxiu Lu\***, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, You
     <br> Thibaud Southiratn, Bonil Koo, <strong>Yijingxiu Lu</strong>, Sun Kim
   </li>
   <li> <code class="language-plaintext highlighter-rouge">BIOKDD 2024</code> <code class="language-plaintext highlighter-rouge">IEEE TCBB 2025</code>
-    <a href="https://www.biorxiv.org/content/10.1101/2024.08.06.606750v1">Context-Aware Hierarchical Fusion for Drug Relational Learning</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10925899">Context-Aware Hierarchical Fusion for Drug Relational Learning</a>
     <br> <strong>Yijingxiu Lu</strong>, Yinhua Piao, Sangseon Lee, Sun Kim
   </li>
   <li> <code class="language-plaintext highlighter-rouge">BIOKDD 2024</code>
@@ -145,7 +165,7 @@ Sangsoo Lim\*, **Yijingxiu Lu\***, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, You
     <a href="https://chemgyu.github.io/assets/publications/2022_tricl/paper.pdf">Triangular Contrastive Learning on Molecular Graphs</a>
     <br> MinGyu Choi, Wonseok Shin, <strong>Yijingxiu Lu</strong>, Sun Kim 
   </li>
-  <li> <code class="language-plaintext highlighter-rouge">CSBJ</code>
+  <li> <code class="language-plaintext highlighter-rouge">CSBJ 2021</code>
     <a href="https://www.sciencedirect.com/science/article/pii/S2001037021000763">A review on compound-protein interaction prediction methods: Data, format, representation and model</a>
     <br> Sangsoo Lim*, <strong>Yijingxiu Lu*</strong>, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, Youngkuk Kim, Sungjoon Park, Sun Kim
   </li>
@@ -158,7 +178,7 @@ Sangsoo Lim\*, **Yijingxiu Lu\***, Chang Yun Cho, Inyoung Sung, Jungwoo Kim, You
 - *[2019.03-2021.06]* SNU Global Scholarships II. 
 
 # 📖 Educations
-- *[2018.09 - 2026.02 (now)]*, Combined Master and Doctor Degree, Computer Science, Seoul National University. 
+- *[2018.09 - 2025.12]*, Combined Master's and Ph.D. Program, Computer Science, Seoul National University.
 - *[2017.03 - 2018.08]*, Korean Language Education, Seoul National University. 
 - *[2013.08 - 2017.06]*, Bachelor Degree, Communication Engineering, University of Science Technology Beijing. 
 

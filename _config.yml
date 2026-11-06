@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yijingxiu Lu"
-description              : "AI4Science researcher, interested in computer aided drug development, relational learning in bioinformatics. "
+description              : "AI for drug discovery, protein language models, and antibody engineering."
 repository               : "solanoon.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yijingxiu Lu"
   avatar           : "images/lulu.jpg"
-  bio              : "Seoul National University"
-  location         : "Seoul, Korea"
-  employer         :
+  bio              : "Senior Algorithm Researcher"
+  location         : "Shanghai, China"
+  employer         : "Immunocan"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6lFBMFsAAAAJ"
-  email            : "solanoon@snu.ac.kr"
+  email            : "solanoon0113@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
